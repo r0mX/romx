@@ -20,24 +20,46 @@ jiNSD97BBSJqeID9fnf/mJwXeBHOWqg=",
 
 "adAddr":"https://vt.tiktok.com/ZS2E8uwLU/",
 
-#.tempadvid1 နဲ့ encrypt လုပ်ပြီးတင်။ ဉာဏ်စမ်းကစားရန် ကြော်ငြာ။
+#.tempadvid1 နဲ့ encrypt လုပ်ပြီးတင်။
 
-"adVideo1":"https://www.dropbox.com/scl/fi/gsa5gx9o2jtut86sa9j0b/.tempadvid1?rlkey=m094xj4tc2svnzg0xtrr2r4xr&st=k3g58mu8&dl=1",
+"adVideo1":"https://www.dropbox.com/scl/fi/gsa5gx9o2jtut86sa9j0b/.tempadvid1?rlkey=m094xj4tc2svnzg0xtrr2r4xr&st=hqk82wui&dl=1",
 
 "adAbout1":"loading for Quiz ...",
 
 "adTimer1":"15",
 
-"adAddr1":"https://tiktok.com/@darmmpyi",
+"adAddr1":"",
 
-#.tempadvid2 နဲ့ encrypt လုပ်ပြီးတင်။ ဗဟုသုတ အတွက် တင်ရန်။
+#.tempadvid2 နဲ့ encrypt လုပ်ပြီးတင်။
 
-"adVideo2":"",
+"adVideo2":"https://www.dropbox.com/scl/fi/gqz7ddqiyhdcwbhl6bk4x/.tempadvid2?rlkey=dkp2e0izeuwy1exopzmc32t7c&st=mhmyxvp5&dl=1",
 
-"adAbout2":"ဗဟုသုတရရန် ကြော်ငြာ ကြည့်ရခြင်းဖြစ်ပါသည်။",
+"adAbout2":"Loading for two",
 
 "adTimer2":"15",
 
-"adAddr2":"https://tiktok.com/@darmmpyi"
+"adAddr2":"",
+
+#.tempadvid3 နဲ့ encrypt လုပ်ပြီးတင်။
+
+"adVideo3":"https://www.dropbox.com/scl/fi/w9l6r0k42k1kzcbjo4xaz/.tempadvid3?rlkey=9mlshep49hawhpw710p0235kh&st=49v2wnbw&dl=1",
+
+"adAbout3":"Loading for three",
+
+"adTimer3":"15",
+
+"adAddr3":"u",
+
+#.tempadvid4 နဲ့ encrypt လုပ်ပြီးတင်။
+
+"adVideo4":"https://www.dropbox.com/scl/fi/5k70t0b5e69slr70hd0jk/.tempadvid4?rlkey=sk4nrcpfnhkzwhupvrpejaltj&st=np4l7f11&dl=1",
+
+"adAbout4":"Loading for For...",
+
+"adTimer4":"15",
+
+"adAddr4":""
+
+
 
 }
