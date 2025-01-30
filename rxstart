@@ -19,6 +19,7 @@ jiNSD97BBSJqeID9fnf/mJwXeBHOWqg=",
 "adTimer":"15",
 
 "adAddr":"https://vt.tiktok.com/ZS2E8uwLU/",
+"goto":"",
 
 #.tempadvid1 နဲ့ encrypt လုပ်ပြီးတင်။ ဉာဏ်စမ်းကစားရန် ကြော်ငြာ။
 
@@ -30,6 +31,8 @@ jiNSD97BBSJqeID9fnf/mJwXeBHOWqg=",
 
 "adAddr1":"https://tiktok.com/@darmmpyi",
 
+"goto1":"",
+
 #.tempadvid2 နဲ့ encrypt လုပ်ပြီးတင်။ ဗဟုသုတ အတွက် တင်ရန်။
 
 "adVideo2":"",
@@ -38,6 +41,8 @@ jiNSD97BBSJqeID9fnf/mJwXeBHOWqg=",
 
 "adTimer2":"15",
 
-"adAddr2":"https://tiktok.com/@darmmpyi"
+"adAddr2":"https://tiktok.com/@darmmpyi",
+
+"goto2":""
 
 }
